@@ -169,17 +169,6 @@ Genre vs Platform vs Sales
 Engagement metrics vs Market performance
 
 These visualizations help understand multidimensional relationships influencing commercial success.
-
-🚀 How to Run the Project
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/VideoGame_Analysis.git
-cd VideoGame_Analysis
-2️⃣ Install Dependencies
-pip install -r requirements.txt
-3️⃣ Run Jupyter Notebook
-jupyter notebook
-4️⃣ Run Streamlit App
-streamlit run app.py
 📂 Project Structure
 VideoGame_Analysis/
 │
@@ -213,5 +202,5 @@ Interactive dashboard development skills
 👤 Author
 
 Pankaj Kumar
-Aspiring Data Scientist
+Data Scientist
 Focused on Analytics, Machine Learning & Data Visualization
